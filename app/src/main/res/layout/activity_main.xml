@@ -9,11 +9,11 @@
         tools:context=".MainActivity">
 
     <Button
-            android:id="@+id/searchForSdp"
+            android:id="@+id/mediaplayerUsage"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:text="Search for SDP"/>
+            android:text="Play music on the device"/>
 
     <Button
             android:id="@+id/sendFileViaSocket"
